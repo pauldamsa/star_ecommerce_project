@@ -1,8 +1,4 @@
 <template>
-  <h1 class="text-2xl font-bold text-gray-800">
-    * Star Store *
-  </h1>
-
   <h2 class="my-4 text-xl font-bold text-gray-800 mt-4">
     Products
   </h2>

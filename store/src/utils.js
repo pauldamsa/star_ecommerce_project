@@ -1,1 +1,3 @@
-// add here the functions that are used in multiple places in the store
+export function getPrice(price, currency){
+    return `Price: ${price} ${currency}`;
+}
